@@ -53,7 +53,7 @@ for word in set(words_ending_ly):
     words_ending_ly_dist_dict[word] = no_words
     
 # Saving the output
-with open("Summary.txt", "w") as f:
+with open("summary.txt", "w") as f:
     #Total word count:
     f.write("Total word count: "+str(word_count)+"\n")
     #Total character count:
