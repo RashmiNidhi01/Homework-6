@@ -1,0 +1,28 @@
+A 94
+B 17
+C 36
+D 37
+E 148
+F 17
+G 28
+H 43
+I 67
+J 6
+K 8
+L 28
+M 30
+N 73
+O 68
+P 23
+Q 1
+R 75
+S 66
+T 82
+U 33
+V 16
+W 13
+X 1
+Y 23
+Z 4
+
+It has all letters.
